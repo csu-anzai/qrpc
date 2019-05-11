@@ -1,5 +1,6 @@
 # qrpc
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/324Luke/qrpc.svg)](https://greenkeeper.io/)
 [![License](https://img.shields.io/github/license/324Luke/qrpc.svg)](LICENSE)
 [![Discord](https://img.shields.io/discord/528810369607663621.svg?color=%237289DA&logo=join)](https://discord.gg/9fvBYnM)
 [![Issues](https://img.shields.io/github/issues/324Luke/qrpc.svg)](https://github.com/324Luke/qrpc/issues)
